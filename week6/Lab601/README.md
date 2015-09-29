@@ -6,12 +6,12 @@ from the provided C# source code.
 ## Submission: a written report which contains
 
 1. A class diagram of the original source code
- ![570610616] (http://www.mx7.com/view2/yD8mWpmRaNJV40cx)
+ ![570610616](http://www.mx7.com/view2/yD8mWpmRaNJV40cx)
 2. Detail explaination about the identified pattern and all the parcipants
  +: abstrac factory methode 
 3. Explain how to include "an asian herbivore and an asian carnivore" to the program: 
   - Show the class diagram of the program after including the new requirment.
   - Test the new requirment by modifying the main function and show the result.
   - Show the main function and snippet of C# code that is related to the process.
-  ![570610616] (http://www.mx7.com/view2/yD8nnlKGJepaP1lD)
+  ![570610616](http://www.mx7.com/view2/yD8nnlKGJepaP1lD)
 
