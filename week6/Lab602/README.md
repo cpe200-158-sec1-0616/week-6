@@ -6,6 +6,6 @@ from the provided C# program.
 ## Submission: a written report which contains
 
 1. A class diagram of the original source code
-![57010616](http://www.mx7.com/view2/yEPtTzuic31P2KkV)
+![57010616](http://i.imgur.com/bD9WWp5.jpg)
 2. Detail explaination about the identified pattern and all the parcipants
 +: abstrac factory methoode
